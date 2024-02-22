@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szoft_ZBYU34", "szoft_tech_ZBYU34\szoft_ZBYU34.csproj", "{87F580BE-7640-42A3-98C4-3500F1AFEB35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "szoft_tech_ZBYU34\Szorzotabla.csproj", "{87F580BE-7640-42A3-98C4-3500F1AFEB35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

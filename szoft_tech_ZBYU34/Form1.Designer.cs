@@ -1,4 +1,4 @@
-﻿namespace szoft_ZBYU34
+﻿namespace szoft_tech_ZBYU34
 {
     partial class Form1
     {
