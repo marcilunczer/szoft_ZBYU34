@@ -14,9 +14,9 @@ namespace _1._feladat
             {
                 for (int j = 1; j < 11; j++)
                 {
-                    Button uj = new Button();
-                    uj.Height = 100;
-                    uj.Width = 50;
+                    SzinezoGomb uj = new SzinezoGomb();
+                    uj.Height = 50;
+                    uj.Width = 100;
 
                     uj.Left = i * 110;
                     uj.Top= j*55;
