@@ -1,4 +1,4 @@
-﻿namespace Pascal_haromszog
+﻿namespace _4._feladat
 {
     partial class Form1
     {

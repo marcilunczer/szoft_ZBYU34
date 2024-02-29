@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sakktabla", "Sakktabla\Sakk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. feladat", "1. feladat\1. feladat.csproj", "{876F9F1E-E525-411C-B8B8-684ABA73AE56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. feladatt", "4. feladatt\4. feladatt.csproj", "{5208C3F5-9EE7-44DC-A439-701CADB9A3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. feladat", "5. feladat\5. feladat.csproj", "{75D51AC3-7FF7-4306-9857-2220A5AFABF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{876F9F1E-E525-411C-B8B8-684ABA73AE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{876F9F1E-E525-411C-B8B8-684ABA73AE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{876F9F1E-E525-411C-B8B8-684ABA73AE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5208C3F5-9EE7-44DC-A439-701CADB9A3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5208C3F5-9EE7-44DC-A439-701CADB9A3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5208C3F5-9EE7-44DC-A439-701CADB9A3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5208C3F5-9EE7-44DC-A439-701CADB9A3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D51AC3-7FF7-4306-9857-2220A5AFABF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D51AC3-7FF7-4306-9857-2220A5AFABF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D51AC3-7FF7-4306-9857-2220A5AFABF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D51AC3-7FF7-4306-9857-2220A5AFABF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
