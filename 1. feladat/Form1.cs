@@ -14,14 +14,14 @@ namespace _1._feladat
             {
                 for (int j = 1; j < 11; j++)
                 {
-                    SzinezoGomb uj = new SzinezoGomb();
+                    SzámolóGomb uj = new SzámolóGomb();
                     uj.Height = 50;
                     uj.Width = 100;
 
                     uj.Left = i * 110;
                     uj.Top= j*55;
 
-                    uj.Text = (i*j).ToString();
+                  
 
                     Controls.Add(uj);
                 }
